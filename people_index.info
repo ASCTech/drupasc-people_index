@@ -1,0 +1,5 @@
+; $Id$
+name = People Index
+description = A block module that display the index of people for quicksites
+core = 6.x
+package = Arts and Sciences at The Ohio State University Modules
